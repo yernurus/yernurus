@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @yernurus, last year student of SDU University, Kazakhstan
 - 👀 I’m interested in Being Software Engineer
 - 🌱 I’m currently learning Python for Django 
-- 📫 How to reach me e-mail: zhakullayernur@gmail.com, tg: @yernurus
+- 📫 How to reach me:
+  e-mail: zhakullayernur@gmail.com, tg: @yernurus
 - ✨ Below you can see my own little pet-projects.
 
 <!---
